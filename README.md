@@ -4,9 +4,9 @@ Usando dados de 1 ano de consumo de música, [disponibilizado pelo Spotify](http
 [![image](https://user-images.githubusercontent.com/54818262/123849392-1ff70d80-d8ef-11eb-91ad-52666c53aa0d.png)](https://app.powerbi.com/view?r=eyJrIjoiZGUxMzRmNmUtY2I0ZC00N2FjLTkyNjItN2UwMTc4MWYzYzI3IiwidCI6IjM5NmZjOTQ3LWUxMGQtNDg4MC05NTA4LTRmNzRkNDQ1ZmE1MCJ9&pageName=ReportSection)
 
 ## Dashboards para setores hospitalares
-Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido alguns dashboards com o Google Data Studio para acompanhamento das unidades e apresentação de indicadores. Na imagem, uma das abas do dashboard construído para o Escritório de Gestão de Altas de um hospital público do ES.
+Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido alguns dashboards com o Google Data Studio para [acompanhamento das unidades](https://www.linkedin.com/posts/joaowendling_businessintelligence-googledatastudio-saaeqde-activity-6800916673709789185-hfzv) e apresentação de indicadores. Na imagem, uma das abas do dashboard construído para o Escritório de Gestão de Altas de um hospital público do ES.
 
-![image](https://user-images.githubusercontent.com/54818262/131378227-ece60182-8d0d-4ea6-b2db-7d4516f9a5d7.png)
+![image](https://user-images.githubusercontent.com/54818262/131378933-1cdbc4ea-e7cb-49d8-9bca-e853a3ef1518.png)
 
 ## Análise exploratória simples (Vendas)
 Usando python, fiz uma análise simples em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](https://joaogwendling.github.io/python/PythonVendas.html).
