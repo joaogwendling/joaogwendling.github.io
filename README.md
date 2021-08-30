@@ -12,3 +12,10 @@ Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido
 Usando python, fiz uma análise simples em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](https://joaogwendling.github.io/python/PythonVendas.html).
 
 ![image](https://user-images.githubusercontent.com/54818262/123850407-61d48380-d8f0-11eb-949b-f14593e93416.png)
+
+
+
+### Contatos
+[E-mail](mailto:joaogabriel.alves11@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joaowendling/)
+[WhatsApp](https://wa.me/555193570403)
