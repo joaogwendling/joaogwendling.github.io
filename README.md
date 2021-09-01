@@ -8,8 +8,8 @@ Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido
 
 ![image](https://user-images.githubusercontent.com/54818262/131378933-1cdbc4ea-e7cb-49d8-9bca-e853a3ef1518.png)
 
-## Análise exploratória simples (Vendas)
-Usando python, fiz uma análise simples em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](/python/PythonVendas.html).
+## Análise exploratória (Vendas)
+Usando python, fiz uma análise básica em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](/python/PythonVendas.html).
 
 ![image](https://user-images.githubusercontent.com/54818262/123850407-61d48380-d8f0-11eb-949b-f14593e93416.png)
 
