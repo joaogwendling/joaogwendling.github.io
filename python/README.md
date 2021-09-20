@@ -20,3 +20,5 @@ The US states with the highest mortality rate are located in the Southeartern Re
 7. Louisiana
 
 ![image](https://user-images.githubusercontent.com/54818262/134049836-167efe78-fc3b-4584-92e1-49554b4f2f83.png)
+
+This geographical correlation can be explained because this region features the highest concentrations of people living with risk factors associated with strokes, such as high blood pressure, diabetes and smoking. [Source](https://drexel.edu/now/archive/2017/February/Stroke-Risk-Factors-Most-Prevalent-in-Southeast-US/). The cause of this region being associated with this factors is still to be discovered.
