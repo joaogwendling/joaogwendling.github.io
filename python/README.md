@@ -32,7 +32,9 @@ Still, there are US counties that did not register any death caused by stroke in
 **Men tend to die by stroke more** than women. The national stroke mortality rate differs slighty, as female stroke mortality is 69.3 per 100,000 and male is 71.6. Various factors, such as hormones, coagulation, genetics, social interactions, and lifestyle might independently or together help to explain gender differences in stroke.
 
 Another interesting insight taken from the dataset is race and ethnicity difference in stroke mortality.
+
 ![image](https://user-images.githubusercontent.com/54818262/134057009-0d115e11-7db7-4bf2-b28e-d9da7f990986.png)
+
 As seen in the previous graph, **black people are more likely to die from having a stroke**, compared to other ethnicities. The rate of death by stroke among black americans is significantly higher than the national avarege (98.3 compared to 70.9).
 This brings the question: why do black people die more from strokes?
 According to the [American Stroke Association](https://www.stroke.org/-/media/stroke-files/lets-talk-about-stroke/prevention/lets-talk-about-black-americans-and-stroke-sheet.pdf?la=en#:~:text=Not%20all%20of%20the%20reasons,one%20risk%20factor%20for%20stroke%3A&text=High%20blood%20pressure%20%E2%80%93%20Over%20half,and%20is%20often%20more%20severe.), not all factors that may cause the black population to have an increased risk of stroke are clear, however, it is known that 2 out of 3 black americans have at least one risk factor for stroke, such as:
