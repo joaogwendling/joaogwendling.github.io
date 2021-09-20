@@ -10,7 +10,7 @@ Based on data published by the CDC, the rate of death due to stroke in 2012 to 2
 
 ---
 
-Now lets dive deeper in the data available. Further analysis can be read in [this notebook](https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/a95489c9-d4fb-4d58-8348-1798c62d5c66/view?access_token=1ae4b2d129aa3ed2584b6af8a74a1e80822c974baf09d8468e2574758628a960)
+Now lets dive deeper in the data available. Further analysis can be read in [this notebook](https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/a95489c9-d4fb-4d58-8348-1798c62d5c66/view?access_token=1ae4b2d129aa3ed2584b6af8a74a1e80822c974baf09d8468e2574758628a960).
 
 The US states with the highest mortality rate are **located in the Southeartern Region** of the country. 
 **Top 7 states** include:
