@@ -6,6 +6,6 @@ First of all, what is a stroke exactly? In simple terms, a stroke occurs when th
 
 Based on data published by the CDC, the rate of death due to stroke in 2012 to 2014 among US adults (35+ years) was
 
-<p style="text-align: center;"> 70.9 per 100,000 people </p>
+<p style="text-align: center"> 70.9 per 100,000 people </p>
 
 
