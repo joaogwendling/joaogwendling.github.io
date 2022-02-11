@@ -20,6 +20,10 @@ Usando python, fiz uma análise básica em um banco de dados sobre vendas, para 
 ## Análise do meu consumo de música no Spotify
 Usando dados de 1 ano de consumo de música, [disponibilizado pelo Spotify](https://support.spotify.com/us/article/data-rights-and-privacy-settings/). Usei o Power BI para, de maneira simples, perceber alguns padrões e ver meus artistas e músicas mais escutadas. <sub>Clique na imagem para relatório interativo</sub>
 
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%">
+<iframe title="SpotifyAnalysis - Página 1" src="https://app.powerbi.com/view?r=eyJrIjoiMTliNjMyYzUtZmM2Ni00MTY1LTljNGEtZjc3YjQyNWFkODNiIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9" frameborder="0" allowFullScreen="true" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
 [![image](https://user-images.githubusercontent.com/54818262/123849392-1ff70d80-d8ef-11eb-91ad-52666c53aa0d.png)](https://app.powerbi.com/view?r=eyJrIjoiZGUxMzRmNmUtY2I0ZC00N2FjLTkyNjItN2UwMTc4MWYzYzI3IiwidCI6IjM5NmZjOTQ3LWUxMGQtNDg4MC05NTA4LTRmNzRkNDQ1ZmE1MCJ9&pageName=ReportSection)  
 
 ### Contatos
