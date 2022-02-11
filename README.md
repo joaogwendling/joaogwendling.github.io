@@ -46,8 +46,8 @@ Usando Python, fiz uma análise básica em um banco de dados sobre vendas, para 
 
 ![image](https://user-images.githubusercontent.com/54818262/123850407-61d48380-d8f0-11eb-949b-f14593e93416.png)
 
-&nbsp  
-
+  
+  
 ### Contatos
 [E-mail](mailto:joaogabriel.alves11@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/joaowendling/)
