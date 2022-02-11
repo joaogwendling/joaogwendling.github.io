@@ -16,12 +16,12 @@ Trabalho realizado para um gestor de polos de educação a distância, que busca
 </div>
 
 ### Analisando comportamento de clientes de empresa telefônica
-Trabalho realizado para um cliente do Oriente Médio, analisando uma base de dados de clientes de uma empresa de Telecom. Construi um painel em Power BI com as principais características desses clientes e dos motivos que eles cancelaram os serviços.<sub>Clique na imagem para relatório interativo</sub>
+Trabalho realizado para um cliente do Oriente Médio, analisando uma base de dados de clientes de uma empresa de Telecom. Construi um painel em Power BI com as principais características desses clientes e dos motivos que eles cancelaram os serviços. <font size="1"> Clique na imagem para relatório interativo </font>
 
 [![image](https://user-images.githubusercontent.com/54818262/153621306-ea716505-8753-4496-94fd-997961f686ce.png)](https://app.powerbi.com/view?r=eyJrIjoiNGE2NTg5MjktYzBjYi00MWRlLWIzYmMtYmJkMGI2OGU0NTEzIiwidCI6Ijc3ZWViMzQ5LTg5ZDItNGY3ZS1hZmMyLTM5MmRiNTVjZmQwMSJ9)
 
 ### Análise do meu consumo de música no Spotify
-Usando dados de 1 ano de consumo de música, [disponibilizado pelo Spotify](https://support.spotify.com/us/article/data-rights-and-privacy-settings/). Usei o Power BI para, de maneira simples, perceber alguns padrões e ver meus artistas e músicas mais escutadas. <sub>Clique na imagem para relatório interativo</sub>
+Usando dados de 1 ano de consumo de música, [disponibilizado pelo Spotify](https://support.spotify.com/us/article/data-rights-and-privacy-settings/). Usei o Power BI para, de maneira simples, perceber alguns padrões e ver meus artistas e músicas mais escutadas. <font size="1"> Clique na imagem para relatório interativo </font>
 
 [![image](https://user-images.githubusercontent.com/54818262/123849392-1ff70d80-d8ef-11eb-91ad-52666c53aa0d.png)](https://app.powerbi.com/view?r=eyJrIjoiZGUxMzRmNmUtY2I0ZC00N2FjLTkyNjItN2UwMTc4MWYzYzI3IiwidCI6IjM5NmZjOTQ3LWUxMGQtNDg4MC05NTA4LTRmNzRkNDQ1ZmE1MCJ9&pageName=ReportSection)  
 
@@ -42,9 +42,11 @@ Continuação do projeto anterior. A partir das músicas do artista, busca na we
 ![image](https://user-images.githubusercontent.com/54818262/153638238-6c7c8604-4638-48f5-9f94-4c91d1b51635.png)
 
 ### Análise exploratória (Vendas)
-Usando Python, fiz uma análise básica em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](https://nbviewer.org/github/joaogwendling/python/blob/main/An%C3%A1lise_Explorat%C3%B3ria_Simples_%28Vendas%29.ipynb).
+Usando Python, fiz uma análise básica em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](https://nbviewer.org/github/joaogwendling/python/blob/main/An%C3%A1lise_Explorat%C3%B3ria_Simples_%28Vendas%29.ipynb)
 
 ![image](https://user-images.githubusercontent.com/54818262/123850407-61d48380-d8f0-11eb-949b-f14593e93416.png)
+
+&nbsp  
 
 ### Contatos
 [E-mail](mailto:joaogabriel.alves11@gmail.com)
