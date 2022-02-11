@@ -2,7 +2,7 @@
 Trabalho realizado para um gestor de polos de educação a distância, com o objetivo de entender melhor como estava a conversão de candidatos em matrículas, buscando entender os gargalos em cada etapa e as diferenças entre os polos e os colaboradores. Painel foi realizado com diferentes telas, e foi feito um menu lateral para navegar entre elas.
 
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%">
-<iframe width="600" height="338" src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
   
 ![Funil Polos](https://user-images.githubusercontent.com/54818262/136703673-b548f0e3-32e3-4019-939f-b4f5b6ffbd65.png)
