@@ -42,7 +42,7 @@ Continuação do projeto anterior. A partir das músicas do artista, busca na we
 ![image](https://user-images.githubusercontent.com/54818262/153638238-6c7c8604-4638-48f5-9f94-4c91d1b51635.png)
 
 ### Análise exploratória (Vendas)
-Usando Python, fiz uma análise básica em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa [nesse notebook](https://nbviewer.org/github/joaogwendling/python/blob/main/An%C3%A1lise_Explorat%C3%B3ria_Simples_%28Vendas%29.ipynb)
+Usando Python, fiz uma análise básica em um banco de dados sobre vendas, para entender melhor o que, onde e quando eram feitas as vendas. Análise completa, utilizando pandas e matplotlib [nesse notebook](https://nbviewer.org/github/joaogwendling/python/blob/main/An%C3%A1lise_Explorat%C3%B3ria_Simples_%28Vendas%29.ipynb)
 
 ![image](https://user-images.githubusercontent.com/54818262/123850407-61d48380-d8f0-11eb-949b-f14593e93416.png)
 
