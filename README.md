@@ -3,17 +3,17 @@ Tópicos:
 - [Python](#python)
 
 ## Dashboards e Relatórios
+### Dashboards para setores hospitalares
+Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido alguns dashboards com o Google Data Studio para [acompanhamento das unidades](https://www.linkedin.com/posts/joaowendling_businessintelligence-googledatastudio-saaeqde-activity-6800916673709789185-hfzv) e apresentação de indicadores. Na imagem, uma das abas do dashboard construído para o Escritório de Gestão de Altas de um hospital público do ES.
+
+![image](https://user-images.githubusercontent.com/54818262/131716151-3082eaa6-975e-4d68-a5d8-d8f41df6d9d5.png)
+
 ### Painel de funil de alunos
 Trabalho realizado para um gestor de polos de educação a distância, com o objetivo de entender melhor como estava a conversão de candidatos em matrículas, buscando entender os gargalos em cada etapa e as diferenças entre os polos e os colaboradores. Painel foi realizado com diferentes telas, e foi feito um menu lateral para navegar entre elas.
 
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%">
 <iframe src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
-  
-### Dashboards para setores hospitalares
-Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido alguns dashboards com o Google Data Studio para [acompanhamento das unidades](https://www.linkedin.com/posts/joaowendling_businessintelligence-googledatastudio-saaeqde-activity-6800916673709789185-hfzv) e apresentação de indicadores. Na imagem, uma das abas do dashboard construído para o Escritório de Gestão de Altas de um hospital público do ES.
-
-![image](https://user-images.githubusercontent.com/54818262/131716151-3082eaa6-975e-4d68-a5d8-d8f41df6d9d5.png)
 
 ### Analisando comportamento de clientes de empresa telefônica
 Trabalho realizado para um cliente do Oriente Médio, analisando uma base de dados de clientes de uma empresa de Telecom. Construi um painel em Power BI com as principais características desses clientes e dos motivos que eles cancelaram os serviços.<sub>Clique na imagem para relatório interativo</sub>
