@@ -1,6 +1,8 @@
 ## Painel de funil de alunos
 Trabalho realizado para um gestor de polos de educação a distância, com o objetivo de entender melhor como estava a conversão de candidatos em matrículas, buscando entender os gargalos em cada etapa e as diferenças entre os polos e os colaboradores. Painel foi realizado com diferentes telas, e foi feito um menu lateral para navegar entre elas.
 
+<iframe width="600" height="338" src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ![Funil Polos](https://user-images.githubusercontent.com/54818262/136703673-b548f0e3-32e3-4019-939f-b4f5b6ffbd65.png)
 
 ## Dashboards para setores hospitalares
