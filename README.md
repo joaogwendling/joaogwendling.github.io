@@ -1,12 +1,18 @@
 Tópicos:
 - [Dashboards e Relatórios](#dashboards-e-relatórios)
+- [Treinamentos ministrados](#treinamentos-ministrados)
 - [Python](#python)
 
 ## Dashboards e Relatórios
 ### Dashboards para setores hospitalares
-Durante meu período de estágio na Eficiência Hospitalista, tenho desenvolvido alguns dashboards com o Google Data Studio para [acompanhamento das unidades](https://www.linkedin.com/posts/joaowendling_businessintelligence-googledatastudio-saaeqde-activity-6800916673709789185-hfzv) e apresentação de indicadores. Na imagem, uma das abas do dashboard construído para o Escritório de Gestão de Altas de um hospital público do ES.
+Durante meu período na Eficiência Hospitalista, desenvolvi alguns dashboards com o Google Data Studio para [acompanhamento das unidades](https://www.linkedin.com/posts/joaowendling_businessintelligence-googledatastudio-saaeqde-activity-6800916673709789185-hfzv) e apresentação de indicadores. Na imagem, uma das abas do dashboard construído para o Escritório de Gestão de Altas de um hospital público do ES.
 
 ![image](https://user-images.githubusercontent.com/54818262/131716151-3082eaa6-975e-4d68-a5d8-d8f41df6d9d5.png)
+
+### Dashboards para gestão de projetos
+Automatização de indicadores de gestão de projetos conectando o Power BI diretamente em APIs de programas como Trello, Asana e ClickUp. 
+
+![Informação no ClickUP Conexão da API com Power Query Visualização dos dados](https://user-images.githubusercontent.com/54818262/234143244-97a8d961-df21-4d68-a851-a9bb260beade.png)
 
 ### Painel de funil de alunos
 Trabalho realizado para um gestor de polos de educação a distância, que buscava entender melhor como estava a conversão de candidatos em matrículas, buscando entender os gargalos em cada etapa e as diferenças entre os polos e os colaboradores. Painel foi realizado com diferentes telas, e foi feito um menu lateral para navegar entre elas.
@@ -15,10 +21,17 @@ Trabalho realizado para um gestor de polos de educação a distância, que busca
 <iframe src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
-### Analisando comportamento de clientes de empresa telefônica
+[comment]: <> (### Analisando comportamento de clientes de empresa telefônica
 Trabalho realizado para um cliente do Oriente Médio, analisando uma base de dados de clientes de uma empresa de Telecom. Construi um painel em Power BI com as principais características desses clientes e dos motivos que eles cancelaram os serviços. <font size="1"> Clique na imagem para relatório interativo </font>
 
 [![image](https://user-images.githubusercontent.com/54818262/153621306-ea716505-8753-4496-94fd-997961f686ce.png)](https://app.powerbi.com/view?r=eyJrIjoiNGE2NTg5MjktYzBjYi00MWRlLWIzYmMtYmJkMGI2OGU0NTEzIiwidCI6Ijc3ZWViMzQ5LTg5ZDItNGY3ZS1hZmMyLTM5MmRiNTVjZmQwMSJ9)
+)
+
+### Movimentações financeiras no Power BI
+BI financeiro que, com dados de lançamentos e movimentações, mostra ao setor as contas a pagar e receber, a movimentação de estoque, o total de saídas e entradas.
+Foi possível até automatizar alguns relatórios, como esse da imagem, semelhante a um D.R.E., que era feito todo mês no Excel a partir da extração de diversos relatórios do ERP e digitado manualmente em cada uma das categorias. Com as regras corretas, conseguimos facilitar a montagem dessa tabela e permitir análises mais detalhadas (a nível de conta e lançamento).
+
+![image](https://user-images.githubusercontent.com/54818262/234143465-9afd2481-38ad-4844-b430-46d321c6a29c.png)
 
 ### Análise do meu consumo de música no Spotify
 Usando dados de 1 ano de consumo de música, [disponibilizado pelo Spotify](https://support.spotify.com/us/article/data-rights-and-privacy-settings/). Usei o Power BI para, de maneira simples, perceber alguns padrões e ver meus artistas e músicas mais escutadas. <font size="1"> Clique na imagem para relatório interativo </font>
@@ -29,6 +42,13 @@ Usando dados de 1 ano de consumo de música, [disponibilizado pelo Spotify](http
 Trabalho realizado para uma gestora canadense, que queria ter uma visão geral dos projetos que estavam em andamento. Com métricas de satisfação, performance e orçamento do projeto.
 
 ![image](https://user-images.githubusercontent.com/54818262/153622198-0b81a4e6-6497-432e-9496-c1879eec4274.png)
+
+
+## Treinamentos ministrados
+### Looker Studio (Google Data Studio) 
+Em março de 2023, ministrei um treinamento para a equipe interna do SANE - Sociedade de Anestesiologia sobre o Looker Studio. Conteúdo teórico com conceitos de dados estruturados, métodos e premissas, além de muita prática sobre o software, desde a interface, até melhores práticas e dicas de apresentação dos dados.
+
+![image](https://user-images.githubusercontent.com/54818262/234140291-80733343-4207-42a4-8db3-94d2a286eb77.png)
 
 ## Python
 ### API do Spotify (com autenticação OAuth2.0)
