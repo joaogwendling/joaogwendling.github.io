@@ -10,12 +10,12 @@ Durante meu período na Eficiência Hospitalista, desenvolvi alguns dashboards c
 ![image](https://user-images.githubusercontent.com/54818262/131716151-3082eaa6-975e-4d68-a5d8-d8f41df6d9d5.png)
 
 ### Dashboards para gestão de projetos
-Automatização de indicadores de gestão de projetos conectando o Power BI diretamente em APIs de programas como Trello, Asana e ClickUp. 
+Automatização de indicadores de gestão de projetos conectando o Power BI diretamente em APIs de programas como Trello, Asana e ClickUp. Evitando retrabalho e permitindo uma tomada de decisão mais assertiva e de fácil acesso.
 
 ![Informação no ClickUP Conexão da API com Power Query Visualização dos dados](https://user-images.githubusercontent.com/54818262/234143244-97a8d961-df21-4d68-a851-a9bb260beade.png)
 
 ### Painel de funil de alunos
-Trabalho realizado para um gestor de polos de educação a distância, que buscava entender melhor como estava a conversão de candidatos em matrículas, buscando entender os gargalos em cada etapa e as diferenças entre os polos e os colaboradores. Painel foi realizado com diferentes telas, e foi feito um menu lateral para navegar entre elas.
+Trabalho realizado para um gestor de polos de educação a distância, que queria entender melhor como estava a conversão de candidatos em matrículas, buscando explorar os gargalos em cada etapa e as diferenças entre os polos e os colaboradores. Painel foi realizado com diferentes telas, com menu lateral para navegar entre elas.
 
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%">
 <iframe src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
@@ -23,7 +23,7 @@ Trabalho realizado para um gestor de polos de educação a distância, que busca
 
 ### Movimentações financeiras no Power BI
 BI financeiro que, com dados de lançamentos e movimentações, mostra ao setor as contas a pagar e receber, a movimentação de estoque, o total de saídas e entradas.
-Foi possível até automatizar alguns relatórios, como esse da imagem, semelhante a um D.R.E., que era feito todo mês no Excel a partir da extração de diversos relatórios do ERP e digitado manualmente em cada uma das categorias. Com as regras corretas, conseguimos facilitar a montagem dessa tabela e permitir análises mais detalhadas (a nível de conta e lançamento).
+Foi possível automatizar alguns relatórios, como esse da imagem, semelhante a um D.R.E., que era feito todo mês no Excel a partir da extração de diversos relatórios do ERP e digitado manualmente em cada uma das categorias. Com as regras corretas, foi possível facilitar a montagem dessa tabela e permitir análises mais detalhadas (a nível de conta e lançamento).<font size="1"> Valores fictícios. </font>
 
 ![image](https://user-images.githubusercontent.com/54818262/234143465-9afd2481-38ad-4844-b430-46d321c6a29c.png)
 
