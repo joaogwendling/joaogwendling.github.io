@@ -21,12 +21,6 @@ Trabalho realizado para um gestor de polos de educação a distância, que busca
 <iframe src="https://datastudio.google.com/embed/reporting/ecfede3d-39c3-43bc-ae20-ecace00667c5/page/cSUcC" frameborder="0" style="border:0; position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
-[comment]: <> (### Analisando comportamento de clientes de empresa telefônica
-Trabalho realizado para um cliente do Oriente Médio, analisando uma base de dados de clientes de uma empresa de Telecom. Construi um painel em Power BI com as principais características desses clientes e dos motivos que eles cancelaram os serviços. <font size="1"> Clique na imagem para relatório interativo </font>
-
-[![image](https://user-images.githubusercontent.com/54818262/153621306-ea716505-8753-4496-94fd-997961f686ce.png)](https://app.powerbi.com/view?r=eyJrIjoiNGE2NTg5MjktYzBjYi00MWRlLWIzYmMtYmJkMGI2OGU0NTEzIiwidCI6Ijc3ZWViMzQ5LTg5ZDItNGY3ZS1hZmMyLTM5MmRiNTVjZmQwMSJ9)
-)
-
 ### Movimentações financeiras no Power BI
 BI financeiro que, com dados de lançamentos e movimentações, mostra ao setor as contas a pagar e receber, a movimentação de estoque, o total de saídas e entradas.
 Foi possível até automatizar alguns relatórios, como esse da imagem, semelhante a um D.R.E., que era feito todo mês no Excel a partir da extração de diversos relatórios do ERP e digitado manualmente em cada uma das categorias. Com as regras corretas, conseguimos facilitar a montagem dessa tabela e permitir análises mais detalhadas (a nível de conta e lançamento).
