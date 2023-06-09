@@ -60,7 +60,7 @@ Usando Python, fiz uma análise básica em um banco de dados sobre vendas, para 
 
 ![image](https://user-images.githubusercontent.com/54818262/123850407-61d48380-d8f0-11eb-949b-f14593e93416.png)
 
-  <iframe src="https://onedrive.live.com/embed?cid=7BE3D5AEDF795F25&resid=7BE3D5AEDF795F25%21143&authkey=ABeL7_qqwt5QBwQ&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+<iframe width="700" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=EE21545E29C15EBA%219920&authkey=%21AGLslzrJgvTK78Q&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Visualiza%C3%A7%C3%A3o'!C3&Item=visualizacao_livro&wdInConfigurator=True&wdInConfigurator=True&ed1JS=false"></iframe>
   
 ### Contatos
 [E-mail](mailto:joaogabriel.alves11@gmail.com)
