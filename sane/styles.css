@@ -5,17 +5,15 @@ body {
 h1 {
 color: white;
 font-family: 'Verdana';
+font-size: 80px;
 }
 
 a {
 color: white;
 font-family: 'Verdana';
+font-size: 40px;
 }
 .container {
     width: 100%;
     text-align: center;
   }
-.frame {
-    align-self: center;
-    align-content:center;
-}
