@@ -17,3 +17,19 @@ font-size: 2rem;
     width: 100%;
     text-align: center;
 }
+
+#frame { 
+    zoom: 1.7; 
+    -moz-transform: scale(1.7); 
+    transform: scale(1.7); 
+    -moz-transform-origin: 0 0; 
+    transform-origin: 0 0; 
+}
+
+#frame2 { 
+    zoom: 1.8; 
+    -moz-transform: scale(1.8); 
+    transform: scale(1.8); 
+    -moz-transform-origin: 0 0; 
+    transform-origin: 0 0; 
+}
