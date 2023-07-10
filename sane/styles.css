@@ -19,9 +19,9 @@ font-size: 1rem;
 }
 
 #frame { 
-    zoom: 1.7; 
-    -moz-transform: scale(1.2); 
-    transform: scale(1.2); 
+    zoom: 0.5; 
+    -moz-transform: scale(0.5); 
+    transform: scale(0.5); 
     -moz-transform-origin: 0 0; 
     transform-origin: 0 0; 
 }
