@@ -18,18 +18,3 @@ font-size: 1rem;
     text-align: center;
 }
 
-#frame { 
-    zoom: 0.5; 
-    -moz-transform: scale(0.5); 
-    transform: scale(0.5); 
-    -moz-transform-origin: 0 0; 
-    transform-origin: 0 0; 
-}
-
-#frame2 { 
-    zoom: 1.2; 
-    -moz-transform: scale(1.2); 
-    transform: scale(1.2); 
-    -moz-transform-origin: 0 0; 
-    transform-origin: 0 0; 
-}
