@@ -5,13 +5,13 @@ body {
 h1 {
 color: white;
 font-family: 'Verdana';
-font-size: 4rem;
+font-size: 2rem;
 }
 
 a {
 color: white;
 font-family: 'Verdana';
-font-size: 2rem;
+font-size: 1rem;
 }
 .container {
     width: 100%;
@@ -20,16 +20,16 @@ font-size: 2rem;
 
 #frame { 
     zoom: 1.7; 
-    -moz-transform: scale(1.7); 
-    transform: scale(1.7); 
+    -moz-transform: scale(1.2); 
+    transform: scale(1.2); 
     -moz-transform-origin: 0 0; 
     transform-origin: 0 0; 
 }
 
 #frame2 { 
-    zoom: 3; 
-    -moz-transform: scale(3); 
-    transform: scale(3); 
+    zoom: 1.2; 
+    -moz-transform: scale(1.2); 
+    transform: scale(1.2); 
     -moz-transform-origin: 0 0; 
     transform-origin: 0 0; 
 }
