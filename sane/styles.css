@@ -27,11 +27,11 @@ font-size: 1rem;
     -webkit-transform-origin: 0 0;
 }
 #frame2 { 
-    zoom: 0.9; 
-    -moz-transform: scale(0.9); 
-    transform: scale(0.9); 
+    zoom: 2.4; 
+    -moz-transform: scale(0.7); 
+    transform: scale(0.7); 
     -moz-transform-origin: 0 0; 
     transform-origin: 0 0; 
-    -webkit-transform: scale(0.9);
+    -webkit-transform: scale(0.7);
     -webkit-transform-origin: 0 0;
 }
